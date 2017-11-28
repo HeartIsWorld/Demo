@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 fafaff
-=======
-dkkkksk
->>>>>>> testlocal1
+solve  problem 
+kkkksk
